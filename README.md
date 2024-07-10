@@ -16,8 +16,7 @@ Para visualizar o projeto na sua máquinha [Clique aqui!](https://gabrielgomesde
 - **Design Responsivo**: Utilização do Bootstrap para garantir que a página seja responsiva e se adapte a diferentes tamanhos de tela.
 - **Navbar**: Navegação fácil entre as seções do site.
 - **Seção de Apresentação**: Uma breve introdução sobre a cafeteria.
-- **Cardápio**: Exibição dos itens do cardápio com preços e descrições.
-- **Galeria de Fotos**: Uma seção para mostrar fotos do ambiente e dos produtos da cafeteria.
+- **Cardápio**: Exibição dos itens do cardápio com preços e breves descrições.
 - **Rodapé**: Informações de contato e links para redes sociais.
 
 ## Tecnologias Utilizadas
