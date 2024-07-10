@@ -9,7 +9,7 @@ O **Caff Shopp** é uma simulação de site para uma cafeteria fictícia, desenv
 ## Demontração do projeto ☕
 <img src="./assets/images/final-project-capture-desktop.png">
 
-Para visualizar o projeto na sua máquinha [Clique aqui!]().
+Para visualizar o projeto na sua máquinha [Clique aqui!](https://gabrielgomesdev20.github.io/Cooffe-Shopp/).
 
 ## Funcionalidades
 
